@@ -1,3 +1,5 @@
+![Kaleidoscope Image](https://github.com/tuck1297/creativecodingkaleidoscope/blob/master/kaleidoscope.jpg?raw=true)
+
 Kaleidoscope Creative Coding Project
 ============
 
