@@ -5,7 +5,7 @@
 
 ## About the Project
 
-This is a creative coding experiment that utilizes geometry and object oriented programming to create a embeddable kaleidoscope animation that can be run efficiently on most browsers. It presents one of the many possibilities that P5.JS (a JavaScript library) has to offer. 
+This is a creative coding experiment that utilizes geometry and object oriented programming to create a embeddable kaleidoscope animation that can be run efficiently on most browsers. It presents one of the many possibilities that P5.JS (a JavaScript library) has to offer. This project makes a great desktop or webpage background generator!
 
 ---
 
